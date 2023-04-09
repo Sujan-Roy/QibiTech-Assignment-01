@@ -28,7 +28,7 @@ This program  meets  the following conditions
 
 1. To use this project, clone the repository by following command: 
 ```sh
-git clone https://github.com/Sujan-Roy/PythonOOP_Thread.git
+git clone https://github.com/Sujan-Roy/QibiTech-Assignment-01.git
 ```
 2. After cloning, using the command prompt, go to the project directory and run **python main.py**.
 Firstly, make sure you have installed latest python version 3.10 on your system.
