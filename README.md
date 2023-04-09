@@ -20,9 +20,9 @@ This program  meets  the following conditions
 
 # Details of the repository
 
-1. The folder conatin the **main.py** program, **dataset** folder and **New_Dataset_directory** folder.
+1. The folder conatin the **main.py** program, **dataset** folder and **Extract_Data_directory** folder.
 2. The **dataset** folder contains the sample input data which is collected by user from an AP using iperf command.
-3. The **New_Data_directory** folder generate by the program which conatin only integer data which is separtred from the input **dataset** folder.
+3. The **Extract_Data_directory** folder generate by the program which conatin only integer data which is separtred from the input **dataset** folder.
 
 # How to run this repository
 
