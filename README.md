@@ -30,6 +30,6 @@ This program  meets  the following conditions
 ```sh
 git clone https://github.com/Sujan-Roy/PythonOOP_Thread.git
 ```
-2. After cloning, using the command prompt, go to the project directory and run python main.py.
+2. After cloning, using the command prompt, go to the project directory and run **python main.py**.
 Firstly, make sure you have installed latest python version 3.10 on your system.
 3. Finally, the program will display the output.
